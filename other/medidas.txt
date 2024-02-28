@@ -1,0 +1,18 @@
+celular: 374px 767px
+laptop: 1920px 1080px
+
+
+MAXIMO-VW
+vw: 1669px
+h2: 3.125rem
+h1: 4.375rem
+p: 1.875rem
+informacion ul: 1.375rem
+
+MINIMO-VW
+
+vw: 380px
+h2: 1.5rem
+h1: 2.2rem
+p: 1.125rem 
+informacion ul: 1.0625
